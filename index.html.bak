@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Quentin.M Infographiste</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/unicons.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- MAIN STYLE -->
+    <link rel="stylesheet" href="css/tooplate-style.css">
+    <!--
+Tooplate 2115 Marvelhttps://www.tooplate.com/view/2115-marvel-->
+  </head>
+  <body><!-- MENU -->
+    <nav class="navbar navbar-expand-sm navbar-light">
+      <div class="container"> <a class="navbar-brand" href="index.html">Quentin.M
+          Infographiste&nbsp;</a> <button class="navbar-toggler" type="button"
+          data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+          aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span> <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav mx-auto">
+            <li class="nav-item"> <a href="#about" class="nav-link"><span data-hover="Accueil">Accueil</span></a></li>
+            <li class="nav-item"> <a href="#project" class="nav-link"><span data-hover="Services">Services</span></a>
+            </li>
+            <li class="nav-item"> <a href="#resume" class="nav-link"><span data-hover="Parcours">Parcours</span></a>
+            </li>
+            <li class="nav-item"> <a href="#contact" class="nav-link"><span data-hover="Contact">Contact</span></a>
+            </li>
+          </ul>
+          <ul class="navbar-nav ml-lg-auto">
+            <div class="ml-lg-4">
+              <div class="color-mode d-lg-flex justify-content-center align-items-center">
+                <i class="color-mode-icon"></i> Mode sombre</div>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- ABOUT -->
+    <section class="about full-screen d-lg-flex justify-content-center align-items-center"
+      id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-md-12 col-12 d-flex align-items-center">
+            <div class="about-text"> <small class="small-text">Bienvenue sur <span
+                  class="mobile-block">le site Quentin.M Infographiste</span></small>
+              <h1 class="animated animated-text"> <span class="mr-2">Donnez vie
+                  à</span>
+                <div class="animated-info"> <span class="animated-item">vos
+                    idées</span> <span class="animated-item">vos envies</span>
+                  <span class="animated-item" style="left: 0px; width: 339px;">votre
+                    entreprise</span> </div>
+              </h1>
+              <p>Conseils &amp; écoute, créons ensemble une communication pour
+                votre entreprise.</p>
+              <div class="custom-btn-group mt-4"> <a href="#contact" class="btn mr-lg-2 custom-btn"><i
+                    class="uil uil-file-alt"></i> Prendre rendez-vous</a> <a href="#project"
+                  class="btn custom-btn custom-btn-bg custom-btn-link">Services</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-12 col-12">
+            <div class="about-image svg"> <img src="images/undraw/undraw_software_engineer_lvl5.svg"
+                class="img-fluid" alt="svg image"> </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- PROJECTS -->
+    <section class="project py-5" id="project">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-11 text-center mx-auto col-12">
+            <div class="col-lg-8 mx-auto">
+              <h2>Services et quelques projets clients</h2>
+            </div>
+            <div class="owl-carousel owl-theme">
+              <div class="item">
+                <div class="project-info"> <img src="images/project/project-image01.png"
+                    class="img-fluid" alt="project image"> </div>
+              </div>
+              <div class="item">
+                <div class="project-info"> <img src="images/project/project-image02.png"
+                    class="img-fluid" alt="project image"> </div>
+              </div>
+              <div class="item">
+                <div class="project-info"> <img src="images/project/project-image03.png"
+                    class="img-fluid" alt="project image"> </div>
+              </div>
+              <div class="item">
+                <div class="project-info"> <img src="images/project/project-image04.png"
+                    class="img-fluid" alt="project image"> </div>
+              </div>
+              <div class="item">
+                <div class="project-info"> <img src="images/project/project-image05.png"
+                    class="img-fluid" alt="project image"> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- FEATURES -->
+    <section class="resume py-5 d-lg-flex justify-content-center align-items-center"
+      id="resume">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 col-12">
+            <h2 class="mb-4">Experiences</h2>
+            <div class="timeline">
+              <div class="timeline-wrapper">
+                <div class="timeline-yr"> <span>2020</span> </div>
+                <div class="timeline-info">
+                  <h3><span>Concepteur graphiphe</span><small>SAS Tips - Caen</small></h3>
+                  <p>Créations graphique pour contenu E-learning (Vidéo,
+                    podcast, simulation,etc).</p>
+                </div>
+              </div>
+              <div class="timeline-wrapper">
+                <div class="timeline-yr"> <span>2020</span> </div>
+                <div class="timeline-info">
+                  <h3><span>Infographiste freelance</span><small>Quentin.M </small></h3>
+                  <p>Lancement en Freelance dans le domaine de l'infographie !</p>
+                </div>
+              </div>
+              <div class="timeline-wrapper">
+                <div class="timeline-yr"> <span>2016</span> </div>
+                <div class="timeline-info">
+                  <h3><span>Stage infographie</span><small>Apostrophe &amp; Cie
+                      - Lisieux</small></h3>
+                  <p>Créations et conceptions graphiques pour professionnels.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 col-12">
+            <h2 class="mb-4 mobile-mt-2">Educations</h2>
+            <div class="timeline">
+              <div class="timeline-wrapper">
+                <div class="timeline-yr"> <span>2020</span> </div>
+                <div class="timeline-info">
+                  <h3><span>Concepteur E-learning</span><small>Créative - Caen</small></h3>
+                  <p>Créations de contenu pour le micro-learning.</p>
+                  <p><br>
+                  </p>
+                </div>
+              </div>
+              <div class="timeline-wrapper">
+                <div class="timeline-yr"> <span>2020</span> </div>
+                <div class="timeline-info">
+                  <h3><span>Infographie Multimédia</span><small>Brassart - Caen</small></h3>
+                  <p>Mise en pratique pour agence de communication ou Freelance.</p>
+                </div>
+              </div>
+              <div class="timeline-wrapper">
+                <div class="timeline-yr"> <span>2017</span> </div>
+                <div class="timeline-info">
+                  <h3><span>MANAA</span><small>Aden - Caen</small></h3>
+                  <p>Année préparatoire en art appliquée<br>
+                    Apprentissage et création de projets artistique.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- CONTACT -->
+    <section class="contact py-5" id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 mr-lg-5 col-12">
+            <div class="google-map w-100"> <iframe src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d20907.102714372042%212d-0.08846404273922522%213d49.07926981930914%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x480a7489762bf25b%3A0x40c14484fbce520%212sM%C3%A9zidon-Canon%2C%2014270%20M%C3%A9zidon%20Vall%C3%A9e%20d%27Auge%215e0%213m2%211sfr%212sfr%214v1644842272265%215m2%211sfr%212sfr"
+                style="border:0;" allowfullscreen="" loading="lazy" height="450"
+                width="600"></iframe> </div>
+            <div class="contact-info d-flex justify-content-between align-items-center py-4 px-lg-5">
+              <div class="contact-info-item">
+                <h3 class="mb-3 text-white">Carte contact</h3>
+                <p class="footer-text mb-0">07 78 31 91 25</p>
+                <p><a href="mailto:quentinmoquet@gmail.com">quentinmoquet@gmail.com</a></p>
+              </div>
+              <ul class="social-links">
+                <li><a href="https://www.linkedin.com/in/quentin-moquet/" class="uil uil-instagram"
+                    data-toggle="tooltip" data-placement="left" title="linkedin"></a><br>
+                </li>
+                <li><a href="#" class="uil uil-instagram" data-toggle="tooltip"
+                    data-placement="left" title="Instagram"></a><br>
+                </li>
+                <li><a href="#" class="uil uil-youtube" data-toggle="tooltip" data-placement="left"
+                    title="Youtube"></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-6 col-12">
+            <div class="contact-form">
+              <h2 class="mb-4">On travaille ensemble ? &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; Let's go</h2>
+              <form action="" method="get">
+                <div class="row">
+                  <div class="col-lg-6 col-12"> <input class="form-control" name="Nom"
+                      placeholder="Nom" id="name" type="text"> </div>
+                  <div class="col-lg-6 col-12"> <input class="form-control" name="email"
+                      placeholder="Email" id="email" type="email"> </div>
+                  <div class="col-12"> <textarea name="message" rows="6" class="form-control"
+id="message" placeholder="Message"></textarea> </div>
+                  <div class="ml-lg-auto col-lg-5 col-12"> <input class="form-control submit-btn"
+value="ENVOYER" type="Submit"> </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- FOOTER -->
+    <footer class="footer py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-12">
+            <p class="copyright-text text-center">Copyright © 2020-22 Quentin.M
+              Infographiste . All rights reserved</p>
+            <p class="copyright-text text-center">Designed by <a rel="nofollow"
+                href="https://www.facebook.com/tooplate">Tooplate</a></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/Headroom.js"></script>
+    <script src="js/jQuery.headroom.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/custom.js"></script>
+  </body>
+</html>
